@@ -1,2 +1,2 @@
-# cycle-gan-dataset
-Dataset of t shirt images 
+# RedNet
+Use the notebook and dataset to recolor t shirts to red in fashion images
